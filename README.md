@@ -24,6 +24,7 @@ I am a machine learning enthusiast based in Italy. I completed an M.Sc. in Data 
 - Languages: Python, SQL, C/C++, Java
 - Frameworks: PyTorch, Scikit-learn, Tensorflow
 - Big Data: PySpark, Hadoop
+- 3D: Blender
 
 
 <!---
