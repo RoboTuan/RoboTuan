@@ -5,9 +5,9 @@ I am a machine learning enthusiast based in Italy. I completed an M.Sc. in Data 
 
 ## 🧑‍💻 Projects
 
-- 🕵️‍♂️ [Master thesis: synthetic-to-real person re-identification](https://github.com/RoboTuan/synth-reid)
-- 🕹️ [Internship: creating synthetic data for person re-identification with GTAV](https://github.com/RoboTuan/GTASynthReid)
-- 📹 [First person action recognition](https://github.com/RoboTuan/FPAR)
+- [Master thesis: synthetic-to-real person re-identification](https://github.com/RoboTuan/synth-reid)
+- [Internship: creating synthetic data for person re-identification with GTAV](https://github.com/RoboTuan/GTASynthReid)
+- [First person action recognition](https://github.com/RoboTuan/FPAR)
 
 
 ## 🤓 Domain knowledge
